@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="add_a_new_shopping_item">Dodaj novi proizvod</string>
+    <string name="name">Ime</string>
+    <string name="amount">Količina</string>
+    <string name="add">DODAJ</string>
+    <string name="cancel">ODUSTANI</string>
+    <string name="enter_all_information">Molim unesi sve podatke</string>
+</resources>
